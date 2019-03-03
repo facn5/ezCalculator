@@ -100,29 +100,29 @@ input[type=button]:hover {
 
   #plus{
   background: #FF8C00;
-  color: #FFFFFF;
+  color: black;
 }
 
 
   #minus{
     background: #FF8C00;
-	  color: #FFFFFF;
+	  color: black;
   }
 
   #multplie{
     background: #FF8C00;
-    color: #FFFFFF;
+    color: black;
 
   }
 
 #divide{
     background: #FF8C00;
-    	color: #FFFFFF;
+    	color: black;
 
   }
   #power{
       background: #FF8C00;
-      	color: #FFFFFF;
+      	color: black;
 
     }
     #bracket1,#bracket2{
@@ -132,7 +132,7 @@ input[type=button]:hover {
       }
   #eq{
        background-color:#FF8C00;
-       color:white;
+       color: black;
        width: 92%;
     }
 
